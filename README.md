@@ -1,8 +1,7 @@
 # ProjectXadrez
 
-Console chess game implemented in C# targeting .NET 8 (C# 12).  
-Implements full standard chess rules with a small, well-structured engine and a console UI in Portuguese.
-
+Jogo de xadrez de console implementado em C# direcionado ao .NET 8 (C# 12).  
+Implementa regras de xadrez padrão completas com um mecanismo pequeno e bem estruturado
 ---
 
 ## Resumo
@@ -57,13 +56,3 @@ Implements full standard chess rules with a small, well-structured engine and a 
   - `testeXequemate(Cor cor)` — para cada movimento possível de cada peça tenta executar e testa se ainda está em xeque (backtracking com `desfazMovimento`).
 
 ---
-
-## Como compilar e executar
-
-Recomendado: Visual Studio 2022 com suporte a .NET 8 ou `dotnet` CLI.
-
-- Visual Studio:
-  - Abra a solução e use __Build > Build Solution__.
-  - Execute com __Debug > Start Debugging__ ou __Debug > Start Without Debugging__.
-
-- CLI:
