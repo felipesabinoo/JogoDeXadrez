@@ -1,0 +1,14 @@
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\bin\Debug\net8.0\ProjectXadrez.exe
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\bin\Debug\net8.0\ProjectXadrez.deps.json
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\bin\Debug\net8.0\ProjectXadrez.runtimeconfig.json
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\bin\Debug\net8.0\ProjectXadrez.dll
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\bin\Debug\net8.0\ProjectXadrez.pdb
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\obj\Debug\net8.0\ProjectXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\obj\Debug\net8.0\ProjectXadrez.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\obj\Debug\net8.0\ProjectXadrez.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\obj\Debug\net8.0\ProjectXadrez.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\obj\Debug\net8.0\ProjectXadrez.dll
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\obj\Debug\net8.0\refint\ProjectXadrez.dll
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\obj\Debug\net8.0\ProjectXadrez.pdb
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\obj\Debug\net8.0\ProjectXadrez.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Desktop\COMUNITY\ProjectXadrez\ProjectXadrez\obj\Debug\net8.0\ref\ProjectXadrez.dll
